@@ -2,8 +2,9 @@
 
 **FlappyBird** is a classic and addictive Android game inspired by the famous Flappy Bird. It's my very first game development project, created using Android Studio and the LibGDX framework.
 
-![FlappyBird Gameplay](![ssfb1](https://github.com/FortisLeo/FlappyBird/assets/121441735/37207a51-a3e7-477c-ab73-2b0db1385252)
-)
+![ssfb1 (1)](https://github.com/FortisLeo/FlappyBird/assets/121441735/d7303d0b-3036-4637-8077-f5a1c5faab2e)
+
+
 
 ## Features
 
@@ -13,11 +14,9 @@
 
 ## Screenshots
 
-![Main Menu(https://github.com/FortisLeo/FlappyBird/assets/121441735/dfdace9f-bec7-4a0b-adbd-0b2e5ddf6fa9)
-
-
-![Game Over](https://github.com/FortisLeo/FlappyBird/assets/121441735/3d408bfb-e415-45a6-aae7-8deefee4815d)
-
+![ssfb3 (1)](https://github.com/FortisLeo/FlappyBird/assets/121441735/016299ed-6f50-4bb7-89ff-f7eaba039419)
+![ssfb1 (1)](https://github.com/FortisLeo/FlappyBird/assets/121441735/19b585e3-5036-4c17-9030-72163e15d389)
+![ssfb2 (1)](https://github.com/FortisLeo/FlappyBird/assets/121441735/0dea5f0f-5139-421c-ba39-c5b2bbfcdb3b)
 
 ## How to Play
 
